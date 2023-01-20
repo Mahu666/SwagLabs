@@ -30,6 +30,8 @@ public class LoginActions {
         loginLocators.btnLogin.click();
         System.out.println("El usuario da click en ingresar.");
         //lskmksdjvx
+        //Region en todas para acomodar asdasd
+
     }
 
 }
