@@ -2,7 +2,6 @@ package Actions;
 
 import Locators.LoginLocators;
 import Utilities.FileProperties;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -30,6 +29,7 @@ public class LoginActions {
         Thread.sleep(3000);
         loginLocators.btnLogin.click();
         System.out.println("El usuario da click en ingresar.");
+        //lskmksdjvx
     }
 
 }
